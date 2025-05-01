@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Ravi Soni\R_AND_D_PROJECTS\jetpack_compose_poc\MyWeatherDashboard\app\src\main\shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\Ravi Soni\R_AND_D_PROJECTS\jetpack_compose_poc\MyWeatherDashboard\app\src\debug\shaders"/></dataSet></merger>

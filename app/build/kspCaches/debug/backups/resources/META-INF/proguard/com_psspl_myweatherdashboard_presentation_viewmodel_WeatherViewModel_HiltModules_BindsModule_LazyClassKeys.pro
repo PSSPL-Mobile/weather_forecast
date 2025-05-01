@@ -1,1 +1,0 @@
--keep,allowobfuscation,allowshrinking class com.psspl.myweatherdashboard.presentation.viewmodel.WeatherViewModel
