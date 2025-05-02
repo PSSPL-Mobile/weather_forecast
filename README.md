@@ -17,7 +17,7 @@
    - **Tabs**: Supports tabbed navigation (currently only "Hourly" tab implemented).  
 
 ## **Tech Stack**:
-   - **Android**: Built for Android devices (5.0+).
+   - **Android**: Built for Android devices (7.0+).
    - **Kotlin**: Written in Kotlin for smooth performance.
    - **Jetpack Compose**: Used for a modern, sleek UI.
    - **OpenWeatherMap API**: Fetches weather, air quality, and location data.
