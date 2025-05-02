@@ -10,7 +10,7 @@
 
 ## **Features**:
    - **City Selection**: Users can select from a predefined list of Indian cities (e.g., Mumbai, Delhi, Ahmedabad) via a dropdown menu.
-   - **Weather Display**: Shows current temperature, weather condition, and hourly forecasts in Celsius.
+   - **Weather Display**: Shows current temperature, weather condition, and hourly forecasts.
    - **Air Quality**: Displays air pollution data (AQI, PM2.5, PM10) for the selected location.
    - **Location Name**: Reverse geocoding to display the location name in the format "City, State, Country" (e.g., "Ahmedabad, Gujarat, IN").
    - **Animations**: Uses Lottie animations to represent weather conditions (e.g., sunny, rainy).
